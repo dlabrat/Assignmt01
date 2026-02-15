@@ -5,19 +5,21 @@
 // let summerMonth
 // let myLibraryFunction
 
-// STEP 2
-//numeric literal expression: 
-53
+// // STEP 2
+// //numeric literal expression: 
+// 53
 
-//a string literal expression: 
-'Hi there'
+// //a string literal expression: 
+// 'Hi there'
 
-//a Boolean literal expression:
-true 
-// a null literal expression:
-null
+// //a Boolean literal expression:
+// true 
+// // a null literal expression:
+// null
 
 // STEP 3
+let myNum =5+3
+alert(myWord + 's')
 
 // STEP 4
 

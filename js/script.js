@@ -49,12 +49,43 @@
 // let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
 // console.log(someString)
 
-// STEP 9
-let oneNull = null
-let twoNoVal
-console.log(oneNull)
-console.log(twoNoVal)
+// // STEP 9
+// let oneNull = null
+// let twoNoVal
+// console.log(oneNull)
+// console.log(twoNoVal)
 
 // STEP 10
+let theDay = new Date();
+let guess;
+console.log(typeof 'deer');
+console.log(typeof 130);
+console.log(typeof false) ;
+console.log(typeof theDay);
+console.log(typeof guess);
 
 // STEP 11
+
+// STEP 12
+
+// STEP 13
+
+// STEP 14
+
+// STEP 15
+
+// STEP 16
+
+// STEP 17
+
+// STEP 18
+
+// STEP 19
+
+// STEP 20
+
+// STEP 21
+
+// STEP 22
+
+

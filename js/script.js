@@ -32,13 +32,22 @@
 // perCity = 'Escondido';
 // yourAge = 42;
 
-// STEP 6
-let txtPrint = 'Adding to this ';
-window.console.log(txtPrint+3);
+// // STEP 6
+// let txtPrint = 'Adding to this ';
+// window.console.log(txtPrint+3);
 
-// STEP 7
+// // STEP 7
+// let booString
+// let booNum
+// booString = true + ' that';
+// booNum = 99 + false;
+// console.log(booString);
+// console.log(booNum);
 
 // STEP 8
+//No, you need to use string escape sequence, or a backlash, for the quotes in this string. 
+let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
+console.log(someString)
 
 // STEP 9
 

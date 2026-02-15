@@ -55,16 +55,17 @@
 // console.log(oneNull)
 // console.log(twoNoVal)
 
-// STEP 10
-let theDay = new Date();
-let guess;
-console.log(typeof 'deer');
-console.log(typeof 130);
-console.log(typeof false) ;
-console.log(typeof theDay);
-console.log(typeof guess);
+// // STEP 10
+// let theDay = new Date();
+// let guess;
+// console.log(typeof 'deer');
+// console.log(typeof 130);
+// console.log(typeof false) ;
+// console.log(typeof theDay);
+// console.log(typeof guess);
 
 // STEP 11
+alert('Hello Zak Ruvalcaba, welcome '+'to the JavaScript class!')
 
 // STEP 12
 

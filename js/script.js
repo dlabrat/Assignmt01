@@ -27,14 +27,21 @@
 // let yourAge
 // let mayContactYou
 
-// STEP 5
-let perAddress = '123 Main Ave. Apt# 22';
-perCity = 'Escondido';
-yourAge = 42;
+// // STEP 5
+// let perAddress = '123 Main Ave. Apt# 22';
+// perCity = 'Escondido';
+// yourAge = 42;
 
 // STEP 6
+let txtPrint = 'Adding to this ';
+window.console.log(txtPrint+3);
 
 // STEP 7
 
 // STEP 8
 
+// STEP 9
+
+// STEP 10
+
+// STEP 11

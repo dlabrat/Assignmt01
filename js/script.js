@@ -21,13 +21,16 @@
 // let myNum =5+3
 // alert(myWord + 's')
 
-// STEP 4
-let firstName, lastName, perAddress, perCity, perState, refSource
-let zipCode
-let yourAge
-let mayContactYou
+// // STEP 4
+// let firstName, lastName, perAddress, perCity, perState, refSource
+// let zipCode
+// let yourAge
+// let mayContactYou
 
 // STEP 5
+let perAddress = '123 Main Ave. Apt# 22';
+perCity = 'Escondido';
+yourAge = 42;
 
 // STEP 6
 

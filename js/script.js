@@ -17,11 +17,15 @@
 // // a null literal expression:
 // null
 
-// STEP 3
-let myNum =5+3
-alert(myWord + 's')
+// // STEP 3
+// let myNum =5+3
+// alert(myWord + 's')
 
 // STEP 4
+let firstName, lastName, perAddress, perCity, perState, refSource
+let zipCode
+let yourAge
+let mayContactYou
 
 // STEP 5
 

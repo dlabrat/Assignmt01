@@ -44,12 +44,16 @@
 // console.log(booString);
 // console.log(booNum);
 
-// STEP 8
-//No, you need to use string escape sequence, or a backlash, for the quotes in this string. 
-let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
-console.log(someString)
+// // STEP 8
+// //No, you need to use string escape sequence, or a backlash, for the quotes in this string. 
+// let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
+// console.log(someString)
 
 // STEP 9
+let oneNull = null
+let twoNoVal
+console.log(oneNull)
+console.log(twoNoVal)
 
 // STEP 10
 
